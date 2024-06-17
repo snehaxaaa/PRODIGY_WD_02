@@ -27,7 +27,11 @@ Click on <b>"Reset"</b> to reset the stopwatch to zero.
 
 <b><br>
 
-https://github.com/snehaxaaa/PRODIGY_WD_02/assets/146460728/76ee4ac8-9ab1-438e-a98d-ea76f59b8350
+
+
+
+https://github.com/snehaxaaa/PRODIGY_WD_02/assets/146460728/a16f1ff7-e889-41af-b059-f8729bee99d8
+
 
 
 Feel free to adjust the sections and details based on your specific implementation and internship requirements. This template covers the basic information needed to document your stopwatch project effectively.<b>
